@@ -139,7 +139,7 @@ Next is the analysis of Noise Figure.
 
 Finally we arrive at the measurement results of our circuit. Below is the circuit that states the values of all the parameters after analysing.
 
-![Measurement Results](https://drive.google.com/uc?export=view&id=1ypjHUiTOMTOLZ16tX01JoUe8Me9-5g0O)
+![Measurement Results](https://drive.google.com/uc?export=view&id=1vzLc-m8cXh93nFIHpgNfShZbqhcd30Pu)
 
 As far as circuit is concerned, we have met all the design goals set for the s-parameter, noise figure, and stability simulations.
 
