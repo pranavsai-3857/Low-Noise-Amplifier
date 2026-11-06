@@ -122,7 +122,7 @@ Impedance Matching can be done using the Smith Chart utility.  The first
 
  We arrive at our final step, simulating the circuit. Below attached one is the final schematic of the LNA circuit.
 
-  ![Schematic of LNA](https://drive.google.com/uc?export=view&id=1AaXn02fP04Vcm9p2_ec3iFwGDYY5I0W3)
+  ![Schematic of LNA](https://drive.google.com/uc?export=view&id=1pI2lBcXk_FW5RYIRjMoOMXB5RW83rKmy)
 
   Now we have to run few simulations to analyze our circuit, to check whether it's matching our Design Specifications.
 
